@@ -26,6 +26,9 @@ For this project I worked on the Global Superstore dataset containing 51,290 ord
 - Page 1 Global Retail Analytics: KPI cards, bar charts, donut charts, area chart, global map, treemap, region slicer
 - Page 2 Product and Sales Performance: Top 5 products, year-by-year growth, shipping cost by category and segment, units by priority, Year/Region/Category slicers
 
+![image alt](https://github.com/gautam-kumar-7590/Global-Retail-Analytics-Report/blob/7ef3b1c4df1a2725d1c9cc8d4ab8891421102d6f/Screenshot%20(54).png)
+
+
 ### <ins>Dataset - SuperStoreOrders.csv | 51,290 rows | 21 columns | 2011-2014</ins>
 
 ---
