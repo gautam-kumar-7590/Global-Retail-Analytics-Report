@@ -19,6 +19,8 @@ For this project I worked on the Global Superstore dataset containing 51,290 ord
 - Top 10 revenue products, top 5 products per region using window functions
 - Year-by-year growth, category by year, top 10 customers, avg shipping cost by priority
 
+  ![Image Alt]()
+
 ### <ins>Power BI - Global Retail Analytics Report.pbix | 2 Pages</ins>
 
 - Page 1 Global Retail Analytics: KPI cards, bar charts, donut charts, area chart, global map, treemap, region slicer
