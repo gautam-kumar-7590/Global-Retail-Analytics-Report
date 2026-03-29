@@ -19,7 +19,7 @@ For this project I worked on the Global Superstore dataset containing 51,290 ord
 - Top 10 revenue products, top 5 products per region using window functions
 - Year-by-year growth, category by year, top 10 customers, avg shipping cost by priority
 
-  ![Image Alt]()
+  ![Image Alt](https://github.com/gautam-kumar-7590/Global-Retail-Analytics-Report/blob/74ab3132d780bf433e03aa855ae40bbdf643624a/Screenshot%20(53).png)
 
 ### <ins>Power BI - Global Retail Analytics Report.pbix | 2 Pages</ins>
 
