@@ -6,29 +6,39 @@ What This Project Is About
 For this project I worked on the Global Superstore dataset containing 51,290 order line items spanning 4 years across 7 international markets. The goal was to clean the data, run a full SQL analysis and build an interactive Power BI dashboard to surface real business insights.
 
 1. Microsoft SQL Server for data cleaning and analysis (Instance: GAUTAMOP\SQLEXPRESS)
+
 2. Power BI Desktop for interactive dashboard visualization
 
 File Summary
 SQL Server - Database: Super_store  |  Table: [Super store Analysis]
 
 •	NULL check across all 21 columns - zero missing values found
+
 •	Duplicate removal using ROW_NUMBER() CTE partitioned by product, dates, customer, category and quantity
+
 •	Sales and profit totals by product, category, region, country and market
+
 •	Top 10 revenue products, top 5 products per region using window functions
+
 •	Year-by-year growth, category by year, top 10 customers, avg shipping cost by priority
+
 
 Power BI - Global Retail Analytics Report.pbix  |  2 Pages
 
 
 •	Page 1 Global Retail Analytics: KPI cards, bar charts, donut charts, area chart, global map, treemap, region slicer
+
 •	Page 2 Product and Sales Performance: Top 5 products, year-by-year growth, shipping cost by category and segment, units by priority, Year/Region/Category slicers
 
+
 Dataset - SuperStoreOrders.csv  |  51,290 rows  |  21 columns  |  2011-2014
+
 Key Performance Indicators
 
 Total Sales = $12,642,905      	      Total Profit = $1,468,035     	      Profit Margin = 11.7%
 Total Orders = 51,290               	      Avg Order Value = $245       	 Avg Shipping Cost = $26.41
 Profit CAGR = +26.7%               	      Sales CAGR = ~24%              	      Total Countries = 147
+
 
 Year-by-Year Growth (2011-2014)
 
