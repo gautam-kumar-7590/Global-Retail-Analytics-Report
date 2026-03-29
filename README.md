@@ -28,6 +28,7 @@ For this project I worked on the Global Superstore dataset containing 51,290 ord
 
 ![image alt](https://github.com/gautam-kumar-7590/Global-Retail-Analytics-Report/blob/7ef3b1c4df1a2725d1c9cc8d4ab8891421102d6f/Screenshot%20(54).png)
 
+![image alt](https://github.com/gautam-kumar-7590/Global-Retail-Analytics-Report/blob/e1b7dd651fc45948c6749cbc21bc55f7763daa4c/Screenshot%20(55).png)
 
 ### <ins>Dataset - SuperStoreOrders.csv | 51,290 rows | 21 columns | 2011-2014</ins>
 
