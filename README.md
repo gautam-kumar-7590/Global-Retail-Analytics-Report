@@ -1,5 +1,6 @@
 # Global-Retail-Analytics-Report
 Global Retail Analysis 2011-2014
+
 What This Project Is About
 
 For this project I worked on the Global Superstore dataset containing 51,290 order line items spanning 4 years across 7 international markets. The goal was to clean the data, run a full SQL analysis and build an interactive Power BI dashboard to surface real business insights.
